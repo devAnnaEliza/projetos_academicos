@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+
+# java
+*.class
+target/
+
+# go
+bin/
+
+# env
+.env
+.env.*
+
+# editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
