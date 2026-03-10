@@ -29,7 +29,7 @@ Neste repositório você encontrará os trabalhos desenvolvidos ao longo da minh
 - Alguns projetos são exercícios acadêmicos ou experimentos técnicos.
 
 
-### Projetos incluídos
+## ⚙️ Projetos incluídos
 
 - Estruturas de dados em Java
 - Scripts de automação em Python
